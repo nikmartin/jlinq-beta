@@ -1,4 +1,7 @@
 /*
+ * jlinq-node 0.0.1 
+ * Nik Martin - nikmartin.com
+ * based on:
  * jLinq - 3.0.1
  * Hugo Bonacci - hugoware.com
  * http://creativecommons.org/licenses/by/3.0/
