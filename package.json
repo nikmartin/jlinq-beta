@@ -4,7 +4,7 @@
   "description": "A node compatible fork/branch of: https://github.com/hugoware/jlinq-beta, a total jscript implementation of LINQ",
   "main": "./lib/jlinq.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node ./test/test.js"
   },
   "repository": {
     "type": "git",

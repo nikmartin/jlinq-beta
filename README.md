@@ -13,7 +13,7 @@ be used to project and filter data into arrays, enumerable classes, XML
 (LINQ to XML), relational databases, and third party data sources. 
 
 ## WHO:
-Original Author: Hugo Bonacci - hugoware.com
-Modified for Node by: Nik Martin - nikmartin.com
+* Original Author: Hugo Bonacci - hugoware.com
+* Modified for Node by: Nik Martin - nikmartin.com
 
 It should work fine, report bugs on github.
