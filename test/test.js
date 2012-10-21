@@ -1,10 +1,11 @@
+var jlinq=require('jlinq');
 //additional testing methods
-jLinq.extend([
-    { name:"status", type:jLinq.command.action,
+jlinq.extend([
+    { name:"status", type:jlinq.command.action,
         method:function(action) {
             action.apply(this);
         }},
-    { name:"grab", type:jLinq.command.select,
+    { name:"grab", type:jlinq.command.select,
         method:function(action) {
             return action.apply(this);
         }}

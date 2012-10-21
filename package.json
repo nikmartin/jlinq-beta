@@ -1,0 +1,19 @@
+{
+  "name": "jlinq-beta",
+  "version": "0.0.1",
+  "description": "A node-erized branch of: https://github.com/hugoware/jlinq-beta, a total jscript implementation of LINQ",
+  "main": "./lib/jlinq",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikmartin/jlinq-beta.git"
+  },
+  "keywords": [
+    "jlinq",
+    "LINQ"
+  ],
+  "author": "Nik Martin",
+  "license": "http://creativecommons.org/licenses/by/3.0/"
+}
