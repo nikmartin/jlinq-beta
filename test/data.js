@@ -6,9 +6,7 @@ var permission = {
 	write: 0x2,
 	remove: 0x4
 };
-
-//data to use in tests
-var data = {
+module.exports = data = {
 
     //nested sample
     gadgets:[
@@ -40,7 +38,8 @@ var data = {
 
     // a list of user profiles
     users:[
-		{ first: "John", last: "Smith", age: 45, admin: false, locationId:2, gender: "m", lastLogin: new Date("1/3/2007 1:05 PM"), permissions: ["read"] },
+		{ first: "John", last: "Smith", age: 45, admin: false, locationId:2, gender: "m", lastLogin: new Date("1/3/2007 1:05 PM")
+                , permissions: ["read"] },
 		{ first: "Margret", last: "Lynn", age: 32, admin: true, locationId:1, gender: "f", lastLogin: new Date("12/11/2006 3:25 PM"), permissions: ["read", "write"] },
 		{ first: "Ryan", last: "Aston", age: 22, admin: false, locationId:3, gender: "M", lastLogin: new Date("3/7/2008 1:31 AM"), permissions: ["read", "write"] },
 		{ first: "Zoe", last: "Brown", age: 21, admin: true, locationId:2, gender: "f", lastLogin: new Date("6/5/2008 2:02 PM"), permissions: ["read"] },
