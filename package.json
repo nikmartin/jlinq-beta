@@ -1,14 +1,14 @@
 {
   "name": "jlinq",
-  "version": "0.1.0",
-  "description": "A node-erized branch of: https://github.com/hugoware/jlinq-beta, a total jscript implementation of LINQ",
+  "version": "0.1.1",
+  "description": "A node compatible fork/branch of: https://github.com/hugoware/jlinq-beta, a total jscript implementation of LINQ",
   "main": "./lib/jlinq.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nikmartin/jlinq-beta.git#jlinq-node"
+    "url": "https://github.com/nikmartin/jlinq-beta/tree/jlinq-node"
   },
   "keywords": [
     "jlinq",
