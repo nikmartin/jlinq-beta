@@ -14,6 +14,8 @@ be used to project and filter data into arrays, enumerable classes, XML
 
 ## WHO:
 * Original Author: Hugo Bonacci - hugoware.com
+
 * Modified for Node by: Nik Martin - nikmartin.com
 
 It should work fine, report bugs on github.
+
