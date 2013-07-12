@@ -1,5 +1,11 @@
-# jlinq
-## WHAT: 
+jlinq
+=====
+
+[![Build Status](https://travis-ci.org/nikmartin/jlinq-beta.png)](https://travis-ci.org/nikmartin/jlinq-beta)
+
+
+WHAT:
+-----
 A node-usable version of https://github.com/hugoware/jlinq-beta
 If you can do it in LINQ, you *should* be able to do it in jlinq
 
@@ -12,9 +18,9 @@ names, lambda expressions and anonymous types. These can, for example,
 be used to project and filter data into arrays, enumerable classes, XML 
 (LINQ to XML), relational databases, and third party data sources. 
 
-## WHO:
+WHO:
+----
 * Original Author: Hugo Bonacci - hugoware.com
-
 * Modified for Node by: Nik Martin - nikmartin.com
 
 It should work fine, report bugs on github.
