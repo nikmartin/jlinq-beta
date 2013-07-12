@@ -1,9 +1,6 @@
 jlinq
 =====
 
-[![Build Status](https://travis-ci.org/nikmartin/jlinq-beta.png)](https://travis-ci.org/nikmartin/jlinq-beta)
-
-
 WHAT:
 -----
 A node-usable version of https://github.com/hugoware/jlinq-beta
